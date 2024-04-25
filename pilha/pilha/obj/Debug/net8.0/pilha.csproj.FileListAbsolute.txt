@@ -1,0 +1,8 @@
+C:\Users\anala\source\repos\pilha\pilha\obj\Debug\net8.0\pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anala\source\repos\pilha\pilha\obj\Debug\net8.0\pilha.AssemblyInfoInputs.cache
+C:\Users\anala\source\repos\pilha\pilha\obj\Debug\net8.0\pilha.AssemblyInfo.cs
+C:\Users\anala\source\repos\pilha\pilha\obj\Debug\net8.0\pilha.csproj.CoreCompileInputs.cache
+C:\Users\anala\source\repos\Algoritmos-2-main\Algoritmos-2-main\pilha\pilha\obj\Debug\net8.0\pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anala\source\repos\Algoritmos-2-main\Algoritmos-2-main\pilha\pilha\obj\Debug\net8.0\pilha.AssemblyInfoInputs.cache
+C:\Users\anala\source\repos\Algoritmos-2-main\Algoritmos-2-main\pilha\pilha\obj\Debug\net8.0\pilha.AssemblyInfo.cs
+C:\Users\anala\source\repos\Algoritmos-2-main\Algoritmos-2-main\pilha\pilha\obj\Debug\net8.0\pilha.csproj.CoreCompileInputs.cache
